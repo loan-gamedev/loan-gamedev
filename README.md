@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Loan 👋
 
-<!--
-**loan-gamedev/loan-gamedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gameplay Programmer — 3rd-year Game Development student at HEAJ (Belgium), focused on gameplay systems in Unreal Engine 5 and Unity.
 
-Here are some ideas to get you started:
+🎮 Solo-developed and released **Lampyris Moon**, a narrative horror game, on Steam
+🔧 Building gameplay systems, pathfinding, and combat logic in C++ and Blueprint
+📌 Looking for a Gameplay Programming internship starting **January 2027**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** C++ · C# · Blueprint · Unreal Engine 5 · Unity · Python
+
+**Links:**
+🌐 [Portfolio](https://loan-gamedev.github.io)
+💼 [LinkedIn](https://www.linkedin.com/in/loan-dzelili-a11651326/)
+✉️ loandzelili@gmail.com
