@@ -1,6 +1,6 @@
 ### Hi, I'm Loan 👋
 
-Gameplay Programmer - 3rd-year Game Development student at HEAJ (Belgium), focused on gameplay systems in Unreal Engine 5 and Unity.
+Game Programmer - 3rd-year Game Development student at HEAJ (Belgium), focused on gameplay systems in Unreal Engine 5 and Unity.
 
 🎮 Solo-developed and released **Lampyris Moon**, a narrative horror game, on Steam
 🔧 Building gameplay systems, pathfinding, and combat logic in C++ and Blueprint
